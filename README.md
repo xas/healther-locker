@@ -1,6 +1,8 @@
 # Healther Locker
 
-This tool is a try to generate a minimal executable in a dotnet environment and to provide a simple and unique functionality : URL test and return a usable code for a docker _healthcheck_ property
+This tool is a try to generate a minimal executable (around 150kB for the published folder size) in a dotnet environment and to provide a simple and unique functionality :
+
+* Test an URL and return a usable code for a docker _healthcheck_ property
 
 ## Generation
 
